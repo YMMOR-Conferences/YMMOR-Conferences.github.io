@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on YMMOR</title>
+    <link>https://ymmor-conferences.github.io/homepage/conferences/</link>
+    <description>Recent content in Conferences on YMMOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
+    <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
+    <lastBuildDate>Wed, 11 Oct 2023 15:53:32 +0200</lastBuildDate><atom:link href="https://ymmor-conferences.github.io/homepage/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Stuttgardt</title>
+      <link>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgardt/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate>
+      <author>youremail@domain.com (YMMOR Committee)</author>
+      <guid>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgardt/</guid>
+      <description>News: Call for Papers now Open Save the Date The next YMMOR Conference will take place at University Stuttgart from TODO
+More information For more INformation and the registration please visit the conference homepage</description>
+    </item>
+    
+    <item>
+      <title>2023 Ulm</title>
+      <link>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate>
+      <author>youremail@domain.com (YMMOR Committee)</author>
+      <guid>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</guid>
+      <description>Links Images </description>
+    </item>
+    
+    <item>
+      <title>2022 Münster</title>
+      <link>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate>
+      <author>youremail@domain.com (YMMOR Committee)</author>
+      <guid>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</guid>
+      <description>Link TODO
+Images </description>
+    </item>
+    
+  </channel>
+</rss>

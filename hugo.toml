@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://ymmor-conferences.github.io/homepage/"
 DefaultContentLanguage = "en"
 title = "YMMOR"
 theme = "beautifulhugo"

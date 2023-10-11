@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on YMMOR</title>
-    <link>https://username.github.io/tags/markdown/</link>
+    <link>https://ymmor-conferences.github.io/homepage/tags/markdown/</link>
     <description>Recent content in markdown on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
     <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
-    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ymmor-conferences.github.io/homepage/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test markdown</title>
-      <link>https://username.github.io/examples/2015-02-20-test-markdown/</link>
+      <link>https://ymmor-conferences.github.io/homepage/examples/2015-02-20-test-markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://username.github.io/examples/2015-02-20-test-markdown/</guid>
+      <guid>https://ymmor-conferences.github.io/homepage/examples/2015-02-20-test-markdown/</guid>
       <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
 Here is some bold text
 Here is a secondary heading Here&amp;rsquo;s a useless table:

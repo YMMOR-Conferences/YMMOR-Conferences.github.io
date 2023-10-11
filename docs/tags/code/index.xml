@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>code on YMMOR</title>
-    <link>https://username.github.io/tags/code/</link>
+    <link>https://ymmor-conferences.github.io/homepage/tags/code/</link>
     <description>Recent content in code on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
     <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
-    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://ymmor-conferences.github.io/homepage/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Sample</title>
-      <link>https://username.github.io/examples/2016-03-08-code-sample/</link>
+      <link>https://ymmor-conferences.github.io/homepage/examples/2016-03-08-code-sample/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://username.github.io/examples/2016-03-08-code-sample/</guid>
+      <guid>https://ymmor-conferences.github.io/homepage/examples/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     
