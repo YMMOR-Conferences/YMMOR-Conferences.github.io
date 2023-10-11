@@ -1,0 +1,92 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "YMMOR"
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Young Mathematicians in Model Order Reduction"
+  mainSections = ["conferences"]
+  # logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = true
+  selfHosted = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+[[Params.bigimg]]
+ src = "img/sphere.jpg"
+#  desc = "Sphere"
+ position = "center top"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "YMMOR Committee"
+  email = "youremail@domain.com"
+  # facebook = "username"
+  github = "YMMOR-Conferences"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Conferences"
+    identifier = "conferences"
+    url = ""
+    weight = 2
+
+[[menu.main]]
+    name = "Governance"
+    identifier= "governance"
+    url = ""
+    weight = 3
+
+[[menu.main]]
+    parent = "conferences"
+    name = "2024 - Stuttgardt"
+    url = "conferences/2024_stuttgardt"
+    weight = 1
+
+[[menu.main]]
+    parent = "conferences"
+    name = "2023 - Ulm"
+    url = "conferences/2023_ulm"
+    weight = 2
+
+[[menu.main]]
+    parent = "conferences"
+    name = "2022 - Münster"
+    url = "conferences/2022_muenster"
+    weight = 3
+
+[[menu.main]]
+   parent = "governance"
+   name = "Committee"
+   url = "governance/committee"
+   weight = 1
+
+[[menu.main]]
+   parent = "governance"
+   name = "Constitution"
+   url = "governance/constitution"
+   weight = 2
