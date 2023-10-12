@@ -1,3 +1,3 @@
 
-Next YMMOR Conference 2024 in Stuttgart more Information
-**[here](/conferences/2024_stuttgardt)** or **[here](https://google.com)**
+Information on the upcoming YMMOR conference 2024 in Stuttgart can be found
+**[here](https://opencms.uni-stuttgart.de/konferenz/ymmor2024/)**
