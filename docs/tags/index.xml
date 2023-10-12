@@ -7,61 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
-    <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ymmor-conferences.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>example</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photoswipe</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/photoswipe/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/photoswipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bigimg</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/bigimg/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/bigimg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/math/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/code/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://ymmor-conferences.github.io/homepage/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
+    <webMaster>youremail@domain.com (YMMOR Committee)</webMaster><atom:link href="https://ymmor-conferences.github.io/homepage/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
