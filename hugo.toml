@@ -63,8 +63,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "conferences"
-    name = "2024 - Stuttgardt"
-    url = "conferences/2024_stuttgardt"
+    name = "2024 - Stuttgart"
+    url = "conferences/2024_stuttgart"
     weight = 1
 
 [[menu.main]]
