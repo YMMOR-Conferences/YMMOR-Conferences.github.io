@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YMMOR</title>
-    <link>https://ymmor-conferences.github.io/homepage/</link>
-    <description>Recent content on YMMOR</description>
+    <title>Abouts on YMMOR</title>
+    <link>https://ymmor-conferences.github.io/homepage/about/</link>
+    <description>Recent content in Abouts on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
     <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
     <lastBuildDate>Wed, 11 Oct 2023 15:54:41 +0200</lastBuildDate>
-    <atom:link href="https://ymmor-conferences.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ymmor-conferences.github.io/homepage/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Committee</title>
       <link>https://ymmor-conferences.github.io/homepage/about/committee/</link>
@@ -17,29 +17,6 @@
       <guid>https://ymmor-conferences.github.io/homepage/about/committee/</guid>
       <description>About Us The YMMOR-committee consists of young researchers that are interested in the continuation and further improvement of the conference format. Its purpose is the sustainability of the format independent of a particular institute or current conference organizers.
 Becoming a member Every young researcher (PhD or early Postdoc) in the field of model order reduction is welcome to join the committee! Being a regular member does not come with any obligations, although you should of course try to attend the committee meetings which are held approximately 2-4 times per year.</description>
-    </item>
-    <item>
-      <title>2024 Stuttgart</title>
-      <link>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgart/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgart/</guid>
-      <description>News: Registration is now open! Save the Date The next edition of the YMMOR conference format will take place from March 4-8, 2024 at the University of Stuttgart, Germany.
-More information For more information and registration please visit the conference homepage.</description>
-    </item>
-    <item>
-      <title>2023 Ulm</title>
-      <link>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</guid>
-      <description>Links Images </description>
-    </item>
-    <item>
-      <title>2022 Münster</title>
-      <link>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
-      <guid>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</guid>
-      <description>Link TODO
-Images </description>
     </item>
     <item>
       <title>The conference format</title>

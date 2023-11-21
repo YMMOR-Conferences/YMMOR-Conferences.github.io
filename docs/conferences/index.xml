@@ -8,35 +8,30 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
     <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
-    <lastBuildDate>Wed, 11 Oct 2023 15:53:32 +0200</lastBuildDate><atom:link href="https://ymmor-conferences.github.io/homepage/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Oct 2023 15:53:32 +0200</lastBuildDate>
+    <atom:link href="https://ymmor-conferences.github.io/homepage/conferences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Stuttgart</title>
       <link>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgart/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
+      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
       <guid>https://ymmor-conferences.github.io/homepage/conferences/2024_stuttgart/</guid>
       <description>News: Registration is now open! Save the Date The next edition of the YMMOR conference format will take place from March 4-8, 2024 at the University of Stuttgart, Germany.
 More information For more information and registration please visit the conference homepage.</description>
     </item>
-    
     <item>
       <title>2023 Ulm</title>
       <link>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
+      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
       <guid>https://ymmor-conferences.github.io/homepage/conferences/2023_ulm/</guid>
       <description>Links Images </description>
     </item>
-    
     <item>
       <title>2022 Münster</title>
       <link>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate>
-      <author>youremail@domain.com (YMMOR Committee)</author>
+      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate><author>youremail@domain.com (YMMOR Committee)</author>
       <guid>https://ymmor-conferences.github.io/homepage/conferences/2022_muenster/</guid>
       <description>Link TODO
 Images </description>
     </item>
-    
   </channel>
 </rss>
