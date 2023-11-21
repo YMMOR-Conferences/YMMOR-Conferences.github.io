@@ -53,12 +53,6 @@ pygmentsCodefencesGuessSyntax = true
     name = "Conferences"
     identifier = "conferences"
     url = ""
-    weight = 2
-
-[[menu.main]]
-    name = "Governance"
-    identifier= "governance"
-    url = ""
     weight = 3
 
 [[menu.main]]
@@ -80,13 +74,19 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
-   parent = "governance"
+    name = "About"
+    identifier= "about"
+    url = ""
+    weight = 2
+
+[[menu.main]]
+   parent = "about"
    name = "Committee"
-   url = "governance/committee"
+   url = "about/committee"
    weight = 1
 
 [[menu.main]]
-   parent = "governance"
    name = "Constitution"
    url = "governance/constitution"
+   parent = "about"
    weight = 2
