@@ -86,7 +86,7 @@ pygmentsCodefencesGuessSyntax = true
    weight = 1
 
 [[menu.main]]
-   name = "Constitution"
-   url = "governance/constitution"
    parent = "about"
+   name = "Conference format"
+   url = "about/conference_format"
    weight = 2
