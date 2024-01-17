@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YMMOR</title>
-    <link>https://ymmor-conferences.github.io/homepage/</link>
+    <link>https://ymmor-conferences.github.io/</link>
     <description>Recent content on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (YMMOR Committee)</managingEditor>
     <webMaster>youremail@domain.com (YMMOR Committee)</webMaster>
-    <atom:link href="https://ymmor-conferences.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ymmor-conferences.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
