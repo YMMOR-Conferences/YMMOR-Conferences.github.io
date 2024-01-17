@@ -2,7 +2,7 @@
 
 The YMMOR homepage is a static homepage created with the tool 
 [hugo](https://gohugo.io). It is hostet via github pages and can be reached 
-[here](https://ymmor-conferences.github.io/homepage/)
+[here](https://ymmor-conferences.github.io/)
 
 
 ## Building the site
@@ -38,7 +38,7 @@ The page can be locally previewed when working on the page just run
     hugo -D server
 
 in an additional terminal. The site can than be reached at
-[localhost:1313/homepage](localhost:1313/homepage). The page is automatically
+[localhost:1313/](localhost:1313/). The page is automatically
 rebuild if any file is changed.
 
 ## Content

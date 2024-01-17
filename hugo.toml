@@ -1,4 +1,4 @@
-baseurl = "https://ymmor-conferences.github.io//"
+baseurl = "https://ymmor-conferences.github.io/"
 DefaultContentLanguage = "en"
 title = "YMMOR"
 theme = "beautifulhugo"
@@ -28,6 +28,7 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = false
   showRelatedPosts = true
   selfHosted = true
+  author.name = "YMMOR Committee"
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
@@ -39,7 +40,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "YMMOR Committee"
+  # name = "YMMOR Committee"
   # email = "youremail@domain.com"
   # facebook = "username"
   github = "YMMOR-Conferences"

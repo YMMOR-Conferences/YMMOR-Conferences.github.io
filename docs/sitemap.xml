@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ymmor-conferences.github.io//</loc>
-    <lastmod>2023-10-11T15:54:41+02:00</lastmod>
+    <loc>https://ymmor-conferences.github.io/</loc>
   </url><url>
-    <loc>https://ymmor-conferences.github.io//about/</loc>
-    <lastmod>2023-10-11T15:54:41+02:00</lastmod>
+    <loc>https://ymmor-conferences.github.io/categories/</loc>
   </url><url>
-    <loc>https://ymmor-conferences.github.io//about/committee/</loc>
-    <lastmod>2023-10-11T15:54:41+02:00</lastmod>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//conferences/2024_stuttgart/</loc>
-    <lastmod>2023-10-11T15:53:32+02:00</lastmod>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//conferences/</loc>
-    <lastmod>2023-10-11T15:53:32+02:00</lastmod>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//conferences/2023_ulm/</loc>
-    <lastmod>2023-10-11T15:53:16+02:00</lastmod>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//conferences/2022_muenster/</loc>
-    <lastmod>2023-10-11T15:53:04+02:00</lastmod>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//categories/</loc>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//tags/</loc>
-  </url><url>
-    <loc>https://ymmor-conferences.github.io//about/conference_format/</loc>
+    <loc>https://ymmor-conferences.github.io/tags/</loc>
   </url>
 </urlset>
