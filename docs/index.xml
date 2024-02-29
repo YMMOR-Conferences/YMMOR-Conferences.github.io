@@ -6,7 +6,42 @@
     <description>Recent content on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 15:54:41 +0200</lastBuildDate>
     <atom:link href="https://ymmor-conferences.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Committee</title>
+      <link>https://ymmor-conferences.github.io/about/committee/</link>
+      <pubDate>Wed, 11 Oct 2023 15:54:41 +0200</pubDate>
+      <guid>https://ymmor-conferences.github.io/about/committee/</guid>
+      <description>About Us The YMMOR-committee consists of young researchers that are interested in the continuation and further improvement of the conference format. Its purpose is the sustainability of the format independent of a particular institute or current conference organizers.&#xA;Becoming a member Every young researcher (PhD or early Postdoc) in the field of model order reduction is welcome to join the committee! Being a regular member does not come with any obligations, although you should of course try to attend the committee meetings which are held approximately 2-4 times per year.</description>
+    </item>
+    <item>
+      <title>2024 Stuttgart</title>
+      <link>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate>
+      <guid>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</guid>
+      <description>Save the Date The next edition of the YMMOR conference format will take place from March 4-8, 2024 at the University of Stuttgart, Germany.&#xA;More information For more information and registration please visit the conference homepage.</description>
+    </item>
+    <item>
+      <title>2023 Ulm</title>
+      <link>https://ymmor-conferences.github.io/conferences/2023_ulm/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate>
+      <guid>https://ymmor-conferences.github.io/conferences/2023_ulm/</guid>
+      <description>After the great success of the first YMMOR in Münster with exciting talks, in-depth discussions and social activities, the concept was continued in Ulm. The second edition of the YMMOR conference took place from 20th to 24th of March 2023 at the University of Ulm, Germany.&#xA;The official homepage of the conference can be found here.&#xA;Images Some impressions from the YMMOR 2023: </description>
+    </item>
+    <item>
+      <title>2022 Münster</title>
+      <link>https://ymmor-conferences.github.io/conferences/2022_muenster/</link>
+      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate>
+      <guid>https://ymmor-conferences.github.io/conferences/2022_muenster/</guid>
+      <description>The first edition of the YMMOR conference took place in July 2022 in Münster, Germany, and was funded by Mathematics Münster, Cluster of Excellence. We had a great week with many interesting talks and discussions and also spent a lot of time with social activities to get to know each other.&#xA;The official homepage of the conference can be found here.&#xA;Images Some impressions from the YMMOR 2022: </description>
+    </item>
+    <item>
+      <title>The conference format</title>
+      <link>https://ymmor-conferences.github.io/about/conference_format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ymmor-conferences.github.io/about/conference_format/</guid>
+      <description>The key idea of YMMOR is to regularly bring together early career researchers that are working in Model Order Reduction and related topics. The focus of the conference is scientific exchange and networking in an informal atmosphere among PhD students, master students, and early postdocs. Therefore, participation by experienced researchers such as professors is not intended.&#xA;The conference takes place on a yearly basis. Every participant is usually expected to present his work in order to facilitate discussions.</description>
+    </item>
   </channel>
 </rss>
