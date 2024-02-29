@@ -1,3 +1,1 @@
-
-Information on the upcoming YMMOR conference 2024 in Stuttgart can be found
-**[here](https://opencms.uni-stuttgart.de/konferenz/ymmor2024/)**
+Welcome on the homepage of the YMMOR conference format! We are organizing conferences on a yearly basis targeted at PhD students and early PostDocs working in the field of model order reduction.

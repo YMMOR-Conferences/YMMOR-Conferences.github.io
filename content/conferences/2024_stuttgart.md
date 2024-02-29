@@ -5,9 +5,6 @@ date = 2023-10-11T15:53:32+02:00
 draft = true
 +++
 
-## News:
-- Registration is now open!
-
 ## Save the Date
 The next edition of the YMMOR conference format will take place from **March 4-8, 2024**
 at the University of Stuttgart, Germany.
