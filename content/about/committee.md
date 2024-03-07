@@ -1,42 +1,67 @@
 +++
 title = 'Committee'
 date = 2023-10-11T15:54:41+02:00
-draft = true
 +++
 
 ## About Us
 
-The YMMOR-committee consists of young researchers that are interested in the continuation and further 
-improvement of the conference format. Its purpose is the sustainability of the format independent of a 
-particular institute or current conference organizers.
+The YMMOR-committee consists of young researchers that are interested in the 
+continuation and further improvement of the conference format. 
+Its purpose is the sustainability of the format independent of a particular 
+institute or current conference organizers.
+
+## Current Members
+| Name               | Affiliation             | Position               |
+|--------------------|-------------------------|------------------------|
+| Alexander Reinhold | Ulm University          | Technical manager      |
+| Alexandre Pasco    | University of Nantes    | Member                 |
+| Constantin Greif   | Ulm University          | Sustainability manager |
+| Hendrik Kleikamp   | University of Muenster  | Advisor for Stuttgart  |
+| Ivan Prusak        | SISSA                   | Member                 |
+| Jonas Nicodemus    | University of Stuttgart | Member                 |
+| Julia Schleuss     | University of Muenster  | Member                 |
+| Leonidas Gkimisis  | MPI Magdeburg           | Member                 |
+| Lukas Renelt       | University of Muenster  | Recruitment manager    |
+| Michael Kartmann   | University of Konstanz  | Head of Committee      |
+| Shubhaditya Burela | TU Berlin               | Member                 |
+| Shuwen Sun         | MPI Magdeburg           | Member                 |
+| Till Peters        | TU Braunschweig         | Member                 |
+
 
 ## Becoming a member
 
-Every young researcher (PhD or early Postdoc) in the field of model order reduction is welcome to
-join the committee! Being a regular member does not come with any obligations, although you should of
-course try to attend the committee meetings which are held approximately 2-4 times per year. 
-We also expect all members to spread knowledge about the conference to other young researchers, e.g. at conferences or workshops.
+Every young researcher (PhD or early Postdoc) in the field of model order 
+reduction is welcome to join the committee! 
+Being a regular member does not come with any obligations, although you should of
+course try to attend the committee meetings which are held approximately 2-4 
+times per year. 
+We also expect all members to spread knowledge about the conference to other 
+young researchers, e.g. at conferences or workshops.
 
-If you are interested or have any questions, please send an (informal) mail to our recruitment manager 
+If you are interested or have any questions, please send an (informal) mail to 
+our recruitment manager 
 ([lukas.renelt@uni-muenster.de](mailto:lukas.renelt@uni-muenster.de)).
 
-## Committee positions
+## Elected positions
 
-The following members were elected to represent the committee in their respective area:
+The following members were elected to represent the committee in their respective 
+area:
 
 **Head of Committee (Michael Kartmann, University of Konstanz)**
 
-The head of committee is responsible for the overall organization of the committee, the initiation
-and leading of the committee meetings and the internal communication.
+The head of committee is responsible for the overall organization of the committee, 
+the initiation and leading of the committee meetings and the internal communication.
 They also serve as the contact person for external people or institutions.
 
 Contact: [michael.kartmann@uni-konstanz.de](mailto:michael.kartmann@uni-konstanz.de)
 
 **Sustainability (Constantin Greif, Ulm University)**
 
-The sustainability manager is tasked with the formation of an organizing team for upcoming conference
-editions. In particular, they meet with interested people and adress questions such as venue and
-financing before the committee then ultimately approves the next conference venue.
+The sustainability manager is tasked with the formation of an organizing team 
+for upcoming conference editions. 
+In particular, they meet with interested people and adress questions such as 
+venue and financing before the committee then ultimately approves the next 
+conference venue.
 
 Contact: [constantin.greif@uni-ulm.de](mailto:constantin.greif@uni-ulm.de)
 
