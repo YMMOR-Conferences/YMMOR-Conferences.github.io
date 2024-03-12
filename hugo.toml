@@ -58,9 +58,15 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "conferences"
+    name = "2025"
+    url = "conferences/2025"
+    weight = 4
+
+[[menu.main]]
+    parent = "conferences"
     name = "2024 - Stuttgart"
     url = "conferences/2024_stuttgart"
-    weight = 1
+    weight = 3
 
 [[menu.main]]
     parent = "conferences"
@@ -72,7 +78,7 @@ pygmentsCodefencesGuessSyntax = true
     parent = "conferences"
     name = "2022 - Münster"
     url = "conferences/2022_muenster"
-    weight = 3
+    weight = 1
 
 [[menu.main]]
     name = "About"
