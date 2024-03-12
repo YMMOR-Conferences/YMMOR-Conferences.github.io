@@ -6,33 +6,40 @@
     <description>Recent content on YMMOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Oct 2023 15:54:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ymmor-conferences.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YMMOR 2025</title>
+      <link>https://ymmor-conferences.github.io/conferences/2025/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ymmor-conferences.github.io/conferences/2025/</guid>
+      <description>We are pleased to announce that YMMOR will continue in 2025! Stay tuned for more information.</description>
+    </item>
+    <item>
+      <title>2024 Stuttgart</title>
+      <link>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</guid>
+      <description>The third edition of YMMOR was held from March 4-8, 2024 at the University of Stuttgart, Germany funded by Simtech. A recap of the week including some pictures is available on the Simtech webpage&#xA;The official conference homepage can be found here.</description>
+    </item>
     <item>
       <title>Committee</title>
       <link>https://ymmor-conferences.github.io/about/committee/</link>
       <pubDate>Wed, 11 Oct 2023 15:54:41 +0200</pubDate>
       <guid>https://ymmor-conferences.github.io/about/committee/</guid>
-      <description>About Us The YMMOR-committee consists of young researchers that are interested in the continuation and further improvement of the conference format. Its purpose is the sustainability of the format independent of a particular institute or current conference organizers.&#xA;Current Members Name Affiliation Position Alexander Reinhold Ulm University Technical manager Alexandre Pasco University of Nantes Member Constantin Greif Ulm University Sustainability manager Hendrik Kleikamp University of Muenster Advisor for Stuttgart Ivan Prusak SISSA Member Jonas Nicodemus University of Stuttgart Member Julia Schleuss University of Muenster Member Leonidas Gkimisis MPI Magdeburg Member Lukas Renelt University of Muenster Recruitment manager Michael Kartmann University of Konstanz Head of Committee Shubhaditya Burela TU Berlin Member Shuwen Sun MPI Magdeburg Member Till Peters TU Braunschweig Member Becoming a member Every young researcher (PhD or early Postdoc) in the field of model order reduction is welcome to join the committee!</description>
-    </item>
-    <item>
-      <title>2024 Stuttgart</title>
-      <link>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:32 +0200</pubDate>
-      <guid>https://ymmor-conferences.github.io/conferences/2024_stuttgart/</guid>
-      <description>Save the Date The next edition of the YMMOR conference format will take place from March 4-8, 2024 at the University of Stuttgart, Germany.&#xA;More information For more information and registration please visit the conference homepage.</description>
+      <description>About Us The YMMOR-committee consists of young researchers that are interested in the continuation and further improvement of the conference format. Its purpose is the sustainability of the format independent of a particular institute or current conference organizers.&#xA;Current Members Name Affiliation Position Alexander Reinhold Ulm University Technical manager Alexandre Pasco University of Nantes Member Constantin Greif Ulm University Sustainability manager Hendrik Kleikamp University of Muenster Member Ivan Prusak SISSA Member Jonas Nicodemus University of Stuttgart Member Julia Schleuss University of Muenster Member Leonidas Gkimisis MPI Magdeburg Member Lukas Renelt University of Muenster Recruitment manager Mattia Manucci University of Stuttgart Advisor Michael Kartmann University of Konstanz Head of Committee Shubhaditya Burela TU Berlin Member Shuwen Sun MPI Magdeburg Member Till Peters TU Braunschweig Member Becoming a member Every young researcher (PhD or early Postdoc) in the field of model order reduction is welcome to join the committee!</description>
     </item>
     <item>
       <title>2023 Ulm</title>
       <link>https://ymmor-conferences.github.io/conferences/2023_ulm/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:16 +0200</pubDate>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ymmor-conferences.github.io/conferences/2023_ulm/</guid>
       <description>After the great success of the first YMMOR in Münster with exciting talks, in-depth discussions and social activities, the concept was continued in Ulm. The second edition of the YMMOR conference took place from 20th to 24th of March 2023 at the University of Ulm, Germany.&#xA;The official homepage of the conference can be found here.&#xA;Images Some impressions from the YMMOR 2023: </description>
     </item>
     <item>
       <title>2022 Münster</title>
       <link>https://ymmor-conferences.github.io/conferences/2022_muenster/</link>
-      <pubDate>Wed, 11 Oct 2023 15:53:04 +0200</pubDate>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://ymmor-conferences.github.io/conferences/2022_muenster/</guid>
       <description>The first edition of the YMMOR conference took place in July 2022 in Münster, Germany, and was funded by Mathematics Münster, Cluster of Excellence. We had a great week with many interesting talks and discussions and also spent a lot of time with social activities to get to know each other.&#xA;The official homepage of the conference can be found here.&#xA;Images Some impressions from the YMMOR 2022: </description>
     </item>
