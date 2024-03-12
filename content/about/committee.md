@@ -16,12 +16,13 @@ institute or current conference organizers.
 | Alexander Reinhold | Ulm University          | Technical manager      |
 | Alexandre Pasco    | University of Nantes    | Member                 |
 | Constantin Greif   | Ulm University          | Sustainability manager |
-| Hendrik Kleikamp   | University of Muenster  | Advisor for Stuttgart  |
+| Hendrik Kleikamp   | University of Muenster  | Member                 |
 | Ivan Prusak        | SISSA                   | Member                 |
 | Jonas Nicodemus    | University of Stuttgart | Member                 |
 | Julia Schleuss     | University of Muenster  | Member                 |
 | Leonidas Gkimisis  | MPI Magdeburg           | Member                 |
 | Lukas Renelt       | University of Muenster  | Recruitment manager    |
+| Mattia Manucci     | University of Stuttgart | Advisor                |
 | Michael Kartmann   | University of Konstanz  | Head of Committee      |
 | Shubhaditya Burela | TU Berlin               | Member                 |
 | Shuwen Sun         | MPI Magdeburg           | Member                 |
@@ -81,10 +82,10 @@ might aid the current organizers.
 
 Contact: [martin.reinhold@uni-ulm.de](mailto:martin.reinhold@uni-ulm.de)
 
-**Advisor (Hendrik Kleikamp, University of Münster)**
+**Advisor (Mattia Manucci, University of Stuttgart)**
 
 The advisor is the contact person for the current organizers and supports them in the organization 
 of the next conference edition (depending on the support needed). In addition to the committee, 
 they in particular ensure that the current organizers stick to the conferences ideas/standards.
 
-Contact: [hendrik.kleikamp@uni-muenster.de](mailto:hendrik.kleikamp@uni-muenster.de)
+Contact: [mattia.manucci@simtech.uni-stuttgart.de](mailto:mattia.manucci@simtech.uni-stuttgart.de)
