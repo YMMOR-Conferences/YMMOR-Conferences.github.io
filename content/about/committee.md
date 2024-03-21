@@ -11,22 +11,22 @@ Its purpose is the sustainability of the format independent of a particular
 institute or current conference organizers.
 
 ## Current Members
-| Name               | Affiliation             | Position               |
-|--------------------|-------------------------|------------------------|
-| Alexander Reinhold | Ulm University          | Technical manager      |
-| Alexandre Pasco    | University of Nantes    | Member                 |
-| Constantin Greif   | Ulm University          | Sustainability manager |
-| Hendrik Kleikamp   | University of Muenster  | Member                 |
-| Ivan Prusak        | SISSA                   | Member                 |
-| Jonas Nicodemus    | University of Stuttgart | Member                 |
-| Julia Schleuss     | University of Muenster  | Member                 |
-| Leonidas Gkimisis  | MPI Magdeburg           | Member                 |
-| Lukas Renelt       | University of Muenster  | Recruitment manager    |
-| Mattia Manucci     | University of Stuttgart | Advisor                |
-| Michael Kartmann   | University of Konstanz  | Head of Committee      |
-| Shubhaditya Burela | TU Berlin               | Member                 |
-| Shuwen Sun         | MPI Magdeburg           | Member                 |
-| Till Peters        | TU Braunschweig         | Member                 |
+| Name                | Affiliation                | Position               |
+|---------------------|----------------------------|------------------------|
+| Alexander Reinhold  | Ulm University             | Technical manager      |
+| Alexandre Pasco     | University of Nantes       | Member                 |
+| Constantin Greif    | Ulm University             | Sustainability manager |
+| Hendrik Kleikamp    | University of M&uuml;nster | Member                 |
+| Ivan Prusak         | SISSA                      | Member                 |
+| Jonas Nicodemus     | University of Stuttgart    | Member                 |
+| Julia Schleu&szlig; | University of M&uuml;nster | Member                 |
+| Leonidas Gkimisis   | MPI Magdeburg              | Member                 |
+| Lukas Renelt        | University of M&uuml;nster | Recruitment manager    |
+| Mattia Manucci      | University of Stuttgart    | Advisor                |
+| Michael Kartmann    | University of Konstanz     | Head of Committee      |
+| Shubhaditya Burela  | TU Berlin                  | Member                 |
+| Shuwen Sun          | MPI Magdeburg              | Member                 |
+| Till Peters         | TU Braunschweig            | Member                 |
 
 
 ## Becoming a member
@@ -66,7 +66,7 @@ conference venue.
 
 Contact: [constantin.greif@uni-ulm.de](mailto:constantin.greif@uni-ulm.de)
 
-**Recruitment (Lukas Renelt, University of Münster)**
+**Recruitment (Lukas Renelt, University of M&uuml;nster)**
 
 The recruitment manager is the contact person for people interested in becoming a member.
 Since we aim to have as many affiliations as possible represented in the committee, they also
