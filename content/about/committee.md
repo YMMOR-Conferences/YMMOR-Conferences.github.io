@@ -80,7 +80,7 @@ The technical manager is responsible for this website and manages the git-reposi
 where we store materials, slides, templates etc from past conference editions that 
 might aid the current organizers.
 
-Contact: [martin.reinhold@uni-ulm.de](mailto:martin.reinhold@uni-ulm.de)
+Contact: [alexander.reinhold@uni-ulm.de](mailto:alexander.reinhold@uni-ulm.de)
 
 **Advisor (Mattia Manucci, University of Stuttgart)**
 
