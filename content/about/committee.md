@@ -11,22 +11,27 @@ Its purpose is the sustainability of the format independent of a particular
 institute or current conference organizers.
 
 ## Current Members
-| Name                | Affiliation                | Position               |
-|---------------------|----------------------------|------------------------|
-| Alexander Reinhold  | Ulm University             | Technical manager      |
-| Alexandre Pasco     | University of Nantes       | Member                 |
-| Constantin Greif    | Ulm University             | Sustainability manager |
-| Hendrik Kleikamp    | University of M&uuml;nster | Member                 |
-| Ivan Prusak         | SISSA                      | Member                 |
-| Jonas Nicodemus     | University of Stuttgart    | Member                 |
-| Julia Schleu&szlig; | University of M&uuml;nster | Member                 |
-| Leonidas Gkimisis   | MPI Magdeburg              | Member                 |
-| Lukas Renelt        | University of M&uuml;nster | Recruitment manager    |
-| Mattia Manucci      | University of Stuttgart    | Advisor                |
-| Michael Kartmann    | University of Konstanz     | Head of Committee      |
-| Shubhaditya Burela  | TU Berlin                  | Member                 |
-| Shuwen Sun          | MPI Magdeburg              | Member                 |
-| Till Peters         | TU Braunschweig            | Member                 |
+| Name                | Affiliation                          | Position               |
+|---------------------|--------------------------------------|------------------------|
+| Alexander Reinhold  | Ulm University                       | Technical manager      |
+| Alexandre Pasco     | University of Nantes                 | Member                 |
+| Constantin Greif    | Ulm University                       | Sustainability manager |
+| Hendrik Kleikamp    | University of M&uuml;nster           | Member                 |
+| Ivan Prusak         | SISSA                                | Member                 |
+| Jannis Marquardt    | TU Braunschweig                      | Member                 |
+| Jonas Kneifl        | University of Stuttgart              | Member                 |
+| Jonas Nicodemus     | University of Stuttgart              | Member                 |
+| Julia Schleu&szlig; | University of M&uuml;nster           | Member                 |
+| Leonidas Gkimisis   | MPI Magdeburg                        | Member                 |
+| Lukas Renelt        | University of M&uuml;nster           | Recruitment manager    |
+| Mattia Manucci      | University of Stuttgart              | Advisor                |
+| Max Beckermann      | Laboratory of Mechanics Paris-Saclay | Member                 |
+| Michael Kartmann    | University of Konstanz               | Head of Committee      |
+| Mike Ackermann      | Viriginia Tech                       | Member                 |
+| Sean Reiter         | Viriginia Tech                       | Member                 |
+| Shubhaditya Burela  | TU Berlin                            | Member                 |
+| Shuwen Sun          | MPI Magdeburg                        | Member                 |
+| Till Peters         | TU Braunschweig                      | Member                 |
 
 
 ## Becoming a member
