@@ -13,13 +13,13 @@ The official homepage of the conference can be found [here](https://www.uni-muen
 ## Images
 Some impressions from the YMMOR 2022:
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0051.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0019.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0062.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0063.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0070.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0078.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0082.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0090.JPG">}}
-  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0100.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0051-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0019-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0062-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0063-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0070-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0078-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0082-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0090-min.JPG">}}
+  {{< figure thumb="" link= "/conferences/2022_muenster/DSC_0100-min.JPG">}}
 {{< /gallery >}}
