@@ -34,9 +34,9 @@ pygmentsCodefencesGuessSyntax = true
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 [[Params.bigimg]]
- src = "img/sphere.jpg"
+ src = "img/ymmor_bg_1920x500.png"
 #  desc = "Sphere"
- position = "center top"
+ position = "center left"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
