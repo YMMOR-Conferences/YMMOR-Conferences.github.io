@@ -6,11 +6,11 @@ The YMMOR homepage is a static homepage created with the tool
 
 
 ## Building the site
-The if content is added or changed the site needs to be rebuilt. For this of
-course `hugo` needs to be installed. Currently the website is build with version
-0.119.0 which is available via snap on Linux. 
+If content is added or changed the site needs to be rebuilt. If you push the changes, this 
+automatically done via a github workflow. In order to build a version
+locally first, `hugo` needs to be installed (currently version 0.132.2. is used)
 
-The site can be built with the command executed from the base directory of the
+The site can then be built with the command executed from the base directory of the
 repository
 
     hugo -d docs
@@ -25,7 +25,8 @@ If you are using an older version of `hugo` you might need to explicitly specify
 config file with `--config hugo.toml`.
 
 ### Installing the theme
-The page uses the theme [beautifulhugo](https://github.com/halogenica/beautifulhugo)
+The page uses a modified version of the theme
+[beautifulhugo](https://github.com/halogenica/beautifulhugo)
 If the repository is freshly cloned the theme for the page needs to be pulled.
 The theme is included as a git submodule. To get the theme one just needs to run
 
