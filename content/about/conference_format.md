@@ -1,6 +1,5 @@
 +++
 title = 'The conference format'
-draft = true
 +++
 
 The **key idea of YMMOR** is to regularly bring together early career researchers that are working in Model Order Reduction and related topics. The focus of the conference is **scientific exchange** and **networking in an informal atmosphere** among PhD students, master students, and early postdocs. Therefore, participation by experienced researchers such as professors is not intended.

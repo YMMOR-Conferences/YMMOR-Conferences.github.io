@@ -2,7 +2,6 @@
 title = '2022 Münster'
 subtitle = "1st YMMOR Conference"
 date = 2022-07-23
-draft = true
 +++
 
 The first edition of the YMMOR conference took place in July 2022 in Münster, Germany, and was funded by Mathematics Münster, Cluster of Excellence.
