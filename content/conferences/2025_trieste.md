@@ -1,8 +1,10 @@
 +++
 title = '2025 Trieste'
-subtitle = "Upcoming YMMOR Conference"
-date = 2024-03-11
+subtitle = "Upcoming 4th YMMOR Conference"
+date = 2025-01-10
 +++
 
-We are pleased to announce that YMMOR will continue in 2025 (preliminary date: May 5-9)! Hosted by young researchers from SISSA in Trieste, Italy, the conference
-will for the first time take place outside Germany. Stay tuned for more information!
+The 2025 edition of YMMOR will take place in **Trieste** Italy from **May 5-9
+2025**. The registration for the conference is now open! Registration deadline is
+Jan 15th 2025. For registration and further infos plese visit the **[conference
+homepage](https://mathlab.github.io/ymmor2025)**
