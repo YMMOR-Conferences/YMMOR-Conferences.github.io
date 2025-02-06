@@ -6,23 +6,8 @@ The YMMOR homepage is a static homepage created with the tool
 
 
 ## Building the site
-If content is added or changed the site needs to be rebuilt. If you push the changes, this 
-automatically done via a github workflow. In order to build a version
-locally first, `hugo` needs to be installed (currently version 0.132.2. is used)
-
-The site can then be built with the command executed from the base directory of the
-repository
-
-    hugo -d docs
-
-the target directory needs to be set to `docs`, otherwise github pages won't
-display the page properly. To include drafts in the built the option `-D` also
-needs to be passed
-
-    hugo -D -d docs
-
-If you are using an older version of `hugo` you might need to explicitly specify the
-config file with `--config hugo.toml`.
+After a push to the github repository the site will be automatically build and
+updated online.
 
 ### Installing the theme
 The page uses a modified version of the theme
