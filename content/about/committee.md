@@ -16,6 +16,7 @@ institute or current conference organizers.
 | Alexander Reinhold  | Ulm University                       | Technical manager      |
 | Alexandre Pasco     | University of Nantes                 | Member                 |
 | Constantin Greif    | Ulm University                       | Sustainability manager |
+| Fan Wang            | MPI Magdeburg                        | Member                 |
 | Hendrik Kleikamp    | University of M&uuml;nster           | Member                 |
 | Ivan Prusak         | SISSA                                | Member                 |
 | Jannis Marquardt    | TU Braunschweig                      | Member                 |
@@ -30,7 +31,6 @@ institute or current conference organizers.
 | Mike Ackermann      | Viriginia Tech                       | Member                 |
 | Sean Reiter         | Viriginia Tech                       | Member                 |
 | Shubhaditya Burela  | TU Berlin                            | Member                 |
-| Shuwen Sun          | MPI Magdeburg                        | Member                 |
 | Till Peters         | TU Braunschweig                      | Member                 |
 
 
