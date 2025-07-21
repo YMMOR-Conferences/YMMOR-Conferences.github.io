@@ -24,6 +24,7 @@ institute or current conference organizers.
 | Jonas Nicodemus     | University of Stuttgart              | Member                 |
 | Julia Schleu&szlig; | University of M&uuml;nster           | Member                 |
 | Leonidas Gkimisis   | MPI Magdeburg                        | Member                 |
+| Lucas Perrin        | University of Konstanz               | Member                 |
 | Lukas Renelt        | University of M&uuml;nster           | Recruitment manager    |
 | Mattia Manucci      | University of Stuttgart              | Advisor                |
 | Max Beckermann      | Laboratory of Mechanics Paris-Saclay | Member                 |
