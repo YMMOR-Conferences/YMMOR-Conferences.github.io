@@ -38,6 +38,9 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Sphere"
  position = "center left"
 
+#[privacy.disqus]
+#    disable = true
+
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   # name = "YMMOR Committee"
