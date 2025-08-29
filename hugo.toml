@@ -1,6 +1,7 @@
 baseurl = "https://ymmor-conferences.github.io/"
 DefaultContentLanguage = "en"
-title = "YMMOR"
+#title = "YMMOR"
+title = "YMMOR - Young Mathematicians in Model Order Reduction"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -12,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "YMMOR" # Set a different text for the header on the home page
   subtitle = "Young Mathematicians in Model Order Reduction"
   mainSections = ["conferences"]
   # logo = "img/avatar-icon.png" # Expecting square dimensions
