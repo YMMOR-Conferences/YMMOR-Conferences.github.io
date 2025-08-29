@@ -13,27 +13,23 @@ institute or current conference organizers.
 ## Current Members
 | Name                | Affiliation                          | Position               |
 |---------------------|--------------------------------------|------------------------|
-| Alexander Reinhold  | Ulm University                       | Technical manager      |
+| Alexander Reinhold  | Ulm University                       | Member                 |
 | Alexandre Pasco     | University of Nantes                 | Member                 |
 | Constantin Greif    | Ulm University                       | Sustainability manager |
 | Fan Wang            | MPI Magdeburg                        | Member                 |
-| Hendrik Kleikamp    | University of M&uuml;nster           | Member                 |
-| Ivan Prusak         | SISSA                                | Member                 |
+| Ivan Prusak         | Ruhr University Bochum               | Member                 |
 | Jannis Marquardt    | TU Braunschweig                      | Member                 |
 | Jonas Kneifl        | University of Stuttgart              | Member                 |
-| Jonas Nicodemus     | University of Stuttgart              | Member                 |
-| Julia Schleu&szlig; | University of M&uuml;nster           | Member                 |
 | Leonidas Gkimisis   | MPI Magdeburg                        | Member                 |
 | Lucas Perrin        | University of Konstanz               | Member                 |
-| Lukas Renelt        | University of M&uuml;nster           | Recruitment manager    |
+| Lukas Renelt        | INRIA Paris                          | Recruitment manager    |
 | Mattia Manucci      | University of Stuttgart              | Advisor                |
-| Max Beckermann      | Laboratory of Mechanics Paris-Saclay | Member                 |
 | Michael Kartmann    | University of Konstanz               | Head of Committee      |
 | Mike Ackermann      | Viriginia Tech                       | Member                 |
 | Sean Reiter         | Viriginia Tech                       | Member                 |
-| Shubhaditya Burela  | TU Berlin                            | Member                 |
 | Till Peters         | TU Braunschweig                      | Member                 |
-
+| Benedikt Klein      | University of M&uuml;nster           | Technical manager      |
+| Anna Ivagnes        | SISSA                                | Member                 |
 
 ## Becoming a member
 
@@ -47,7 +43,7 @@ young researchers, e.g. at conferences or workshops.
 
 If you are interested or have any questions, please send an (informal) mail to 
 our recruitment manager 
-([lukas.renelt@uni-muenster.de](mailto:lukas.renelt@uni-muenster.de)).
+([lukas.renelt@infra.fr](mailto:lukas.renelt@infra.fr)).
 
 ## Elected positions
 
@@ -72,21 +68,21 @@ conference venue.
 
 Contact: [constantin.greif@uni-ulm.de](mailto:constantin.greif@uni-ulm.de)
 
-**Recruitment (Lukas Renelt, University of M&uuml;nster)**
+**Recruitment (Lukas Renelt, INRIA Paris)**
 
 The recruitment manager is the contact person for people interested in becoming a member.
 Since we aim to have as many affiliations as possible represented in the committee, they also
 proactively approach workgroups that are not yet present.
 
-Contact: [lukas.renelt@uni-muenster.de](mailto:lukas.renelt@uni-muenster.de)
+Contact: [lukas.renelt@inria.fr](mailto:lukas.renelt@inria.fr)
 
-**Technical manager (Alexander Reinhold, Ulm University)**
+**Technical manager (Benedikt Klein, University of M&uuml;nster)**
 
 The technical manager is responsible for this website and manages the git-repository 
 where we store materials, slides, templates etc from past conference editions that 
 might aid the current organizers.
 
-Contact: [alexander.reinhold@uni-ulm.de](mailto:alexander.reinhold@uni-ulm.de)
+Contact: [benedikt.klein@uni-muenster.de](mailto:benedikt.klein@uni-muenster.de)
 
 **Advisor (Mattia Manucci, University of Stuttgart)**
 
