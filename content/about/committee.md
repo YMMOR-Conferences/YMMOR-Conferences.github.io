@@ -11,25 +11,25 @@ Its purpose is the sustainability of the format independent of a particular
 institute or current conference organizers.
 
 ## Current Members
-| Name                | Affiliation                          | Position               |
-|---------------------|--------------------------------------|------------------------|
-| Alexander Reinhold  | Ulm University                       | Member                 |
-| Alexandre Pasco     | University of Nantes                 | Member                 |
-| Constantin Greif    | Ulm University                       | Sustainability manager |
-| Fan Wang            | MPI Magdeburg                        | Member                 |
-| Ivan Prusak         | Ruhr University Bochum               | Member                 |
-| Jannis Marquardt    | TU Braunschweig                      | Member                 |
-| Jonas Kneifl        | University of Stuttgart              | Member                 |
-| Leonidas Gkimisis   | MPI Magdeburg                        | Member                 |
-| Lucas Perrin        | University of Konstanz               | Member                 |
-| Lukas Renelt        | INRIA Paris                          | Recruitment manager    |
-| Mattia Manucci      | University of Stuttgart              | Advisor                |
-| Michael Kartmann    | University of Konstanz               | Head of Committee      |
-| Mike Ackermann      | Viriginia Tech                       | Member                 |
-| Sean Reiter         | Viriginia Tech                       | Member                 |
-| Till Peters         | TU Braunschweig                      | Member                 |
-| Benedikt Klein      | University of M&uuml;nster           | Technical manager      |
-| Anna Ivagnes        | SISSA                                | Member                 |
+| Name               | Affiliation                | Position               |
+|--------------------|----------------------------|------------------------|
+| Alexander Reinhold | Ulm University             | Member                 |
+| Alexandre Pasco    | University of Nantes       | Member                 |
+| Anna Ivagnes       | SISSA                      | Advisor for 2026       |
+| Benedikt Klein     | University of M&uuml;nster | Technical manager      |
+| Constantin Greif   | Ulm University             | Member                 |
+| Fan Wang           | MPI Magdeburg              | Member                 |
+| Ivan Prusak        | Ruhr University Bochum     | Member                 |
+| Jannis Marquardt   | TU Braunschweig            | Member                 |
+| Jonas Kneifl       | University of Stuttgart    | Member                 |
+| Leonidas Gkimisis  | MPI Magdeburg              | Member                 |
+| Lucas Perrin       | University of Konstanz     | Member                 |
+| Lukas Renelt       | INRIA Paris                | Recruitment manager    |
+| Mattia Manucci     | University of Stuttgart    | Sustainability manager |
+| Michael Kartmann   | University of Konstanz     | Head of Committee      |
+| Mike Ackermann     | Viriginia Tech             | Member                 |
+| Sean Reiter        | Viriginia Tech             | Member                 |
+| Till Peters        | TU Braunschweig            | Member                 |
 
 ## Becoming a member
 
@@ -43,7 +43,7 @@ young researchers, e.g. at conferences or workshops.
 
 If you are interested or have any questions, please send an (informal) mail to 
 our recruitment manager 
-([lukas.renelt@infra.fr](mailto:lukas.renelt@infra.fr)).
+([lukas.renelt@inria.fr](mailto:lukas.renelt@inria.fr)).
 
 ## Elected positions
 
@@ -58,7 +58,7 @@ They also serve as the contact person for external people or institutions.
 
 Contact: [michael.kartmann@uni-konstanz.de](mailto:michael.kartmann@uni-konstanz.de)
 
-**Sustainability (Constantin Greif, Ulm University)**
+**Sustainability (Mattia Manucci, University of Stuttgart)**
 
 The sustainability manager is tasked with the formation of an organizing team 
 for upcoming conference editions. 
@@ -66,7 +66,7 @@ In particular, they meet with interested people and adress questions such as
 venue and financing before the committee then ultimately approves the next 
 conference venue.
 
-Contact: [constantin.greif@uni-ulm.de](mailto:constantin.greif@uni-ulm.de)
+Contact: [mattia.manucci@simtech.uni-stuttgart.de](mailto:mattia.manucci@simtech.uni-stuttgart.de)
 
 **Recruitment (Lukas Renelt, INRIA Paris)**
 
@@ -84,10 +84,10 @@ might aid the current organizers.
 
 Contact: [benedikt.klein@uni-muenster.de](mailto:benedikt.klein@uni-muenster.de)
 
-**Advisor (Mattia Manucci, University of Stuttgart)**
+**Advisor (Anna Ivagnes, SISSA)**
 
 The advisor is the contact person for the current organizers and supports them in the organization 
 of the next conference edition (depending on the support needed). In addition to the committee, 
 they in particular ensure that the current organizers stick to the conferences ideas/standards.
 
-Contact: [mattia.manucci@simtech.uni-stuttgart.de](mailto:mattia.manucci@simtech.uni-stuttgart.de)
+Contact: [aivagnes@sissa.it](mailto:aivagnes@sissa.it)
