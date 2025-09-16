@@ -20,11 +20,11 @@ institute or current conference organizers.
 | Constantin Greif   | Ulm University             | Member                 |
 | Fan Wang           | MPI Magdeburg              | Member                 |
 | Ivan Prusak        | Ruhr University Bochum     | Member                 |
-| Jannis Marquardt   | TU Braunschweig            | Member                 |
+| Jannis Marquardt   | TU Braunschweig            | Recruitment manager    |
 | Jonas Kneifl       | University of Stuttgart    | Member                 |
 | Leonidas Gkimisis  | MPI Magdeburg              | Member                 |
 | Lucas Perrin       | University of Konstanz     | Member                 |
-| Lukas Renelt       | INRIA Paris                | Recruitment manager    |
+| Lukas Renelt       | INRIA Paris                | Member                 |
 | Mattia Manucci     | University of Stuttgart    | Sustainability manager |
 | Michael Kartmann   | University of Konstanz     | Head of Committee      |
 | Mike Ackermann     | Viriginia Tech             | Member                 |
@@ -43,7 +43,7 @@ young researchers, e.g. at conferences or workshops.
 
 If you are interested or have any questions, please send an (informal) mail to 
 our recruitment manager 
-([lukas.renelt@inria.fr](mailto:lukas.renelt@inria.fr)).
+([j.marquardt@tu-braunschweig.de](mailto:j.marquardt@tu-braunschweig.de)).
 
 ## Elected positions
 
@@ -68,13 +68,13 @@ conference venue.
 
 Contact: [mattia.manucci@simtech.uni-stuttgart.de](mailto:mattia.manucci@simtech.uni-stuttgart.de)
 
-**Recruitment (Lukas Renelt, INRIA Paris)**
+**Recruitment (Jannis Marquardt, TU Braunschweig)**
 
 The recruitment manager is the contact person for people interested in becoming a member.
 Since we aim to have as many affiliations as possible represented in the committee, they also
 proactively approach workgroups that are not yet present.
 
-Contact: [lukas.renelt@inria.fr](mailto:lukas.renelt@inria.fr)
+Contact: [j.marquardt@tu-braunschweig.de](j.marquardt@tu-braunschweig.de)
 
 **Technical manager (Benedikt Klein, University of M&uuml;nster)**
 
