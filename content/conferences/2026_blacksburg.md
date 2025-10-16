@@ -4,7 +4,7 @@ subtitle = "Upcoming 5th YMMOR Conference"
 date = 2025-08-29
 +++
 
-The 5th edition of YMMOR will convene at **Virginia Tech** in **Blacksburg, USA**, from **May 25–29, 2026**.  
+The 5th edition of YMMOR will take place at **Virginia Tech** in **Blacksburg, USA**, from **May 25–29, 2026**.  
 
 **Key dates:**  
 - **Registration opens:** November 20, 2025
